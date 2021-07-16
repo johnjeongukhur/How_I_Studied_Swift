@@ -1,6 +1,7 @@
 # How I Studied Swift
 단순히 내가 공부했던 것들을 나열
 
+2021
 
 ### 2월 - 5월 말   
 - Paul Hudson_100days of swiftUI   
@@ -18,3 +19,5 @@
 
 ### 8월 중순 - 10월 예정
 - 강남쪽 iOS 국비지원, Allen님의 부트캠프 수강예정
+
+***
