@@ -1,4 +1,4 @@
-# How I Studied Swift
+# How I Studying Swift Language
 단순히 내가 공부했던 것들을 나열
 
 2021
